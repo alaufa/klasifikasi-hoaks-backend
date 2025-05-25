@@ -1,6 +1,7 @@
-flask
 waitress
+Flask
 scikit-learn
-sastrawi
-pandas
+Sastrawi
+joblib
 numpy
+gunicorn
