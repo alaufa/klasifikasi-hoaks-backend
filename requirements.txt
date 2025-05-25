@@ -1,7 +1,7 @@
-waitress
 Flask
 scikit-learn
 Sastrawi
 joblib
 numpy
 gunicorn
+waitress
