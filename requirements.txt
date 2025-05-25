@@ -1,5 +1,6 @@
 flask
+waitress
 scikit-learn
 sastrawi
-joblib
-flask-cors
+pandas
+numpy
